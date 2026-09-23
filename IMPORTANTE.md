@@ -1,0 +1,1 @@
+Para clonar repositorio en visual te metes en la barra de arriba y pones ejecutar comandos y luego git clone y pones la url del repositorio https://github.com/DyW48/Laboratorio_Software.git
